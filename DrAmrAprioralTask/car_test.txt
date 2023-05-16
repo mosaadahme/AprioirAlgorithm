@@ -1,0 +1,85 @@
+﻿low Far2 more big med good @Mosaad @Hassan Sohila Nada @Aya
+low Far2 more big high vgood
+low Far3 2small low unacc
+low Far3 2small med unacc
+low BMW3 2small high unacc
+low BMW3 2med low unacc
+low BMW3 2med med unacc @Mosaad @Hassan @Sohila @Nada @Aya
+low BMW3 2med high unacc
+low BMW3 2big low unacc @Mosaad Hassan @Sohila @Nada @Aya
+low BMW3 2med high unacc
+low BMW3 2big med unacc
+low BMW3 2big high unacc
+low BMW3 4small low unacc
+low BMW3 4small med acc @Mosaad @Hassan @Sohila @Nada @Aya
+low BMW3 2med high unacc @Mosaad @Hassan @Sohila @Nada @Aya
+low BMW3 4small high good
+low BMW3 4med @Mosaad @Hassan @Sohila @Nada @Aya
+low BMW3 4med med acc
+low BMW3 4med high good @Mosaad @Hassan Sohila @Nada @Aya
+low BMW3 4big low unacc
+low BMW3 4big med good @Mosaad @Hassan @Sohila @Nada @Aya
+low Far3 4big high vgood
+low Far3 more small low unacc @Mosaad @Hassan @Sohila @Nada @Aya
+low Far3 more small med acc
+low Far3 more small high good
+low Far3more med unacc
+low Far3more med me good
+low low3more med high vgood
+low low3more big low unacc
+low low3more big med good
+low low3more big high vgood
+low low42 small low unacc
+low low4 small med unacc
+low low4 @Mosaad @Hassan @Sohila @Nada @Aya small high unacc
+low low4 @Mosaad @Hassan @Sohila @Nada @Aya med low unacc
+low low4 @Mosaad @Hassan @Sohila @Nada @Aya med med unacc
+low low4 @Mosaad @Hassan @Sohila @Nada @Aya med high unacc @Mosaad @Hassan @Sohila @Nada @Aya
+low low4 @Mosaad @Hassan @Sohila @Nada @Aya big low unacc
+low low4 @Mosaad @Hassan @Sohila @Nada @Aya big med unacc
+low car4 @Mosaad @Hassan @Sohila @Nada @Aya big high unacc
+low car4 @Mosaad @Hassan @Sohila @Nada @Aya small low unacc
+low car4 small med acc
+low car4 @Mosaad @Hassan @Sohila @Nada @Aya small high good
+low car4 @Mosaad @Hassan @Sohila @Nada @Aya med low unac
+low car4 @Mosaad @Hassan @Sohila @Nada @Aya med med good
+low car4 @Mosaad @Hassan @Sohila @Nada @Aya med high vgood
+low car4 big low unacc
+low car4 big med good
+low car4 @Mosaad @Hassan @Sohila @Nada @Aya big high vgood
+low car4ore small low unacc
+low car4more5 @Mosaad @Hassan @Sohila @Nada @Aya small med acc
+low car4more5 small high good
+low car4more5 @Mosaad @Hassan @Sohila @Nada @Aya med low unacc
+low car4more5 med med good
+low car4more5 med high vgood	   
+low car4more5 big low unacc
+low car4more5 @Mosaad @Hassan @Sohila @Nada @Aya big med good
+low car4more5 big high vgood
+low car5more5 @Mosaad @Hassan @Sohila @Nada @Aya small low unacc
+low car5more5 small med unacc
+low low5more5 @Mosaad @Hassan @Sohila @Nada @Aya small high unacc
+low low5more5 med low unacc
+low low5more5 @Mosaad @Hassan @Sohila @Nada @Aya med unacc
+low low5more5 med high unacc			    
+low low5more5 big low unacc
+low Marcedis5 more big unacc
+low Marcedis5 more big acc
+low Marcedis5 more small unacc
+low Marcedis5 more small acc @Mosaad @Hassan @Sohila @Nada @Aya
+low Marcedis5 more small good
+low Marcedis5 more med low unacc
+low Marcedis5 more med med good
+low Marcedis5 more med high vgood
+low Marcedis5 more big low unacc
+low Marcedis5 more big med good
+low Marcedis5 more @Mosaad @Hassan @Sohila @Nada @Aya big high good
+low Marcedis5 more @Mosaad @Hassan @Sohila @Nada @Aya more small low unacc
+low Marcedis5 more @Mosaad @Hassan @Sohila @Nada @Aya more small med acc
+low Marcedis5 more @Mosaad @Hassan @Sohila @Nada @Aya more small high good
+low Marcedis5 more @Mosaad @Hassan @Sohila @Nada @Aya more med low unacc
+low Marcedis5 more @Mosaad @Hassan @Sohila @Nada @Aya more med good
+low low5 more @Mosaad @Hassan @Sohila @Nada @Aya more med high vgood
+low low5 more @Mosaad @Hassan @Sohila @Nada @Aya more big low unacc
+low low5 more @Mosaad @Hassan @Sohila @Nada @Aya more big med good
+low low5 more more big high vgood

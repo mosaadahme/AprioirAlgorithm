@@ -1,0 +1,15 @@
+C:\Users\PCM\Desktop\DrAmrAprioralTask\DrAmrAprioralTask\bin\Debug\net6.0\DrAmrAprioralTask.exe
+C:\Users\PCM\Desktop\DrAmrAprioralTask\DrAmrAprioralTask\bin\Debug\net6.0\DrAmrAprioralTask.deps.json
+C:\Users\PCM\Desktop\DrAmrAprioralTask\DrAmrAprioralTask\bin\Debug\net6.0\DrAmrAprioralTask.runtimeconfig.json
+C:\Users\PCM\Desktop\DrAmrAprioralTask\DrAmrAprioralTask\bin\Debug\net6.0\DrAmrAprioralTask.dll
+C:\Users\PCM\Desktop\DrAmrAprioralTask\DrAmrAprioralTask\bin\Debug\net6.0\DrAmrAprioralTask.pdb
+C:\Users\PCM\Desktop\DrAmrAprioralTask\DrAmrAprioralTask\obj\Debug\net6.0\DrAmrAprioralTask.csproj.AssemblyReference.cache
+C:\Users\PCM\Desktop\DrAmrAprioralTask\DrAmrAprioralTask\obj\Debug\net6.0\DrAmrAprioralTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCM\Desktop\DrAmrAprioralTask\DrAmrAprioralTask\obj\Debug\net6.0\DrAmrAprioralTask.AssemblyInfoInputs.cache
+C:\Users\PCM\Desktop\DrAmrAprioralTask\DrAmrAprioralTask\obj\Debug\net6.0\DrAmrAprioralTask.AssemblyInfo.cs
+C:\Users\PCM\Desktop\DrAmrAprioralTask\DrAmrAprioralTask\obj\Debug\net6.0\DrAmrAprioralTask.csproj.CoreCompileInputs.cache
+C:\Users\PCM\Desktop\DrAmrAprioralTask\DrAmrAprioralTask\obj\Debug\net6.0\DrAmrAprioralTask.dll
+C:\Users\PCM\Desktop\DrAmrAprioralTask\DrAmrAprioralTask\obj\Debug\net6.0\refint\DrAmrAprioralTask.dll
+C:\Users\PCM\Desktop\DrAmrAprioralTask\DrAmrAprioralTask\obj\Debug\net6.0\DrAmrAprioralTask.pdb
+C:\Users\PCM\Desktop\DrAmrAprioralTask\DrAmrAprioralTask\obj\Debug\net6.0\DrAmrAprioralTask.genruntimeconfig.cache
+C:\Users\PCM\Desktop\DrAmrAprioralTask\DrAmrAprioralTask\obj\Debug\net6.0\ref\DrAmrAprioralTask.dll
